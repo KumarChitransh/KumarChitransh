@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Kumar Chitransh. I love applying my knowledge and skills in anything related to Websites, Mobile apps and Data Science.I love to work on new projects and collabrate with people.
+My name is Kumar Chitransh. I love applying my knowledge and skills in anything related to Websites, Mobile apps, automation tasks and Data Science.I love to work on new projects and collabrate with people.
 
 ## I’m currently working on 💻
 Python Development,Android and Web related Projects. 🙃
@@ -8,7 +8,7 @@ Python Development,Android and Web related Projects. 🙃
 Pick your favorite means of communication and ping me.</br>
 [GitHub](https://github.com/kumarchitransh7/) <br />
 [Instagram](https://www.instagram.com/kumarchitranshh/)<br />
-[Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=chitranshreads@gmail.com&su=SUBJECT&body=BODY&tf=1)
+[Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=chitranshreads@gmail.com&su=SUBJECT&body=BODY&tf=1),br />
 ## Languages and Frameworks I work on 👨‍
 
 <div>
