@@ -5,7 +5,7 @@ My name is Kumar Chitransh. I love applying my knowledge and skills in anything 
 Python Development,Android and Web related Projects. 🙃
 
 ## How to reach me 📫
-Pick your favorite means of communication and ping me.
+Pick your favorite means of communication and ping me.</br>
 [GitHub](https://github.com/kumarchitransh7/) <br />
 [Instagram](https://www.instagram.com/kumarchitranshh/)
 
