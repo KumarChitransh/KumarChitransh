@@ -7,7 +7,8 @@ Python Development,Android and Web related Projects. 🙃
 ## How to reach me 📫
 Pick your favorite means of communication and ping me.</br>
 [GitHub](https://github.com/kumarchitransh7/) <br />
-[Instagram](https://www.instagram.com/kumarchitranshh/)
+[Instagram](https://www.instagram.com/kumarchitranshh/)<br />
+[Gmail](<a href="mailto:someone@yoursite.com">Email Us</a>)
 
 ## Languages and Frameworks I work on 👨‍
 
