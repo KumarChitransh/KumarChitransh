@@ -8,7 +8,7 @@ Python Development,Android and Web related Projects. 🙃
 Pick your favorite means of communication and ping me.</br>
 [GitHub](https://github.com/kumarchitransh7/) <br />
 [Instagram](https://www.instagram.com/kumarchitranshh/)<br />
-[Gmail](<a href="mailto:someone@yoursite.com">Email Us</a>)
+[Mail](<a href="mailto:chitranshreads@gmail.com">Email Us</a>)
 
 ## Languages and Frameworks I work on 👨‍
 
