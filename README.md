@@ -6,7 +6,7 @@ Python Development,Android and Web related Projects. 🙃
 
 ## How to reach me 📫
 Pick your favorite means of communication and ping me.
-[Gmail](chitranshreads@gmail.com),[Instagram](instagram.com/kumarchitranshh)
+[Gmail](mail:chitranshreads@gmail.com),[Instagram](www.instagram.com/kumarchitranshh)
 
 ## Languages and Frameworks I work on 👨‍
 
