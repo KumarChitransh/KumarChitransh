@@ -23,7 +23,7 @@ Pick your favorite means of communication and ping me.</br>
 
 ## My Github Repo Stats 📈
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=kumarchitransh7&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=73ffbb&bg_color=151515&count_private=true&hide_title=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=kumarchitransh&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=73ffbb&bg_color=151515&count_private=true&hide_title=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarchitransh7&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarchitransh&show_icons=true&title_color=73ffbb&icon_color=73ffbb&text_color=fff&bg_color=151515&count_private=true&layout=compact" />
 
