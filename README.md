@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kumarchitransh/kumarchitransh/blob/master/avatar.png" width="225px">
+  <img src="https://github.com/kumarchitransh/kumarchitransh/blob/main/avatar.png" width="225px">
   <br>
   <p align=center>
     <img src="https://badges.pufler.dev/visits/kumarchitransh/kumarchitransh?color=black&logo=github" />
