@@ -22,7 +22,7 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kumarchitransh/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://kumarchitransh.medium.com/"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.medium.com/@kumarchitransh"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/michitranshaahe"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/arghyadeep.d/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp; -->
 <a href="https://www.instagram.com/michitranshaahe/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
